@@ -6,14 +6,19 @@ Machine Learning, AI and overall Computer Science exploration is parallel becaus
 WHAT I DO
 
 Networking + Cybersecurity Enthusiast
+
 Learning ML/AI and applying it practically
+
 Building projects in Python, Flask, HTML/CSS etc.
+
 Solving problems from business angle, not textbook angle
 
 PRINCIPLE
 
 Clarity > Fluff.
+
 Systems > Hype.
+
 Execution > Excuses.
 
 I appreciate progress… but I fix weaknesses ruthlessly and without sugarcoating.
@@ -21,6 +26,7 @@ I appreciate progress… but I fix weaknesses ruthlessly and without sugarcoatin
 PROJECTS
 Movie Recommender System (Flask)
 Content-based movie recommendation web app using Kaggle dataset (10,000 movies). Flask served, similarity driven results, made for real utility not classroom theory.
+
 
 Student Grade Management System
 Clean fundamental system for academic records handling. Good foundation practice in backend discipline and data structuring.
