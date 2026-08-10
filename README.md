@@ -107,27 +107,11 @@ Security-focused project exploring threat analysis and detection concepts.
 
 ---
 
-## 📊 GITHUB STATS
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShlokYamdegny&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShlokYamdegny&layout=compact&theme=dark&hide_border=true" height="170"/>
-
-</div>
 
 ---
 
-## 🔥 CONTRIBUTION STREAK
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ShlokYamdegny&theme=dark&hide_border=true"/>
-
-</div>
-
----
 
 ## 🌐 CONNECT
 
